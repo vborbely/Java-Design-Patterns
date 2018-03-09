@@ -1,6 +1,6 @@
 package com.anysolutions.factory;
 
-
+/** @author Viktor Borbély */
 public class FactoryPatternDemo {
 	
 	public static void main(String[] args)
