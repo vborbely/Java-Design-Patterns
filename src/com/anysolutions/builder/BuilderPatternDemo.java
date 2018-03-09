@@ -1,5 +1,7 @@
 package com.anysolutions.builder;
 
+/** @author Viktor Borbély */
+
 public class BuilderPatternDemo {
 
 	public static void main(String[] args) {
